@@ -1,0 +1,9 @@
+{
+  "name": "bandcampvolume",
+  "title": "BandcampVolume",
+  "id": "jid1-Z1Ui7RlrhzPb4Q",
+  "description": "A volume control for Bandcamp album pages.",
+  "author": "Noam Chitayat",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
