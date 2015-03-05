@@ -3,7 +3,9 @@ Bandcamp Volume Control
 
 This Firefox extension adds a volume slider underneath the playback controls on Bandcamp's album pages.
 
-To package and use the extension directly from source:
+The extension is made available as a .xpi file. Please see the [Releases](https://github.com/noam-c/BandcampVolume/releases) page to download the latest version. After downloading this file, open it using your Firefox browser.
+
+Alternatively, you may package and use the extension directly from source:
 
 1. Install the [Firefox Add-on SDK](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation).
 2. In your local copy of this repo, run `cfx xpi`.
